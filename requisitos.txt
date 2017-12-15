@@ -1,0 +1,3 @@
+R1
+Obtener una lista de los archivos de un directorio ordenados por subdirectorios y pasarlos a una hoja de excel.
+Guardar: ruta, directorio, fecha creación y tamaño.
