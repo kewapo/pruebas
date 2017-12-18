@@ -1,3 +1,4 @@
+#Autor: kewapo
 import os.path
 import datetime
 import csv
