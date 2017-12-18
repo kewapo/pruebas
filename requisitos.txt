@@ -4,3 +4,6 @@ Guardar: ruta, directorio, fecha creación y tamaño.
 
 R2
 Comparar con otra ubicación. Tenemos los archivos en un directorio. Leerlos para poder compararlos con los de otra.
+
+R3
+Hacerlo con una clase. Datos: ruta, archivo. Métodos: leer_archivos, guardar_archivos
