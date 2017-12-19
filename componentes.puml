@@ -1,7 +1,8 @@
 @startuml
+skinparam handwritten true
 
 folder "pruebas" {
-[ejemplo.py] ..> [archivos.csv]
+[ejemplo.py] .> [archivos.csv]
 }
 
 @enduml

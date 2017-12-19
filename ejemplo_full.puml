@@ -1,0 +1,16 @@
+@startuml
+skinparam handwritten true
+skinparam roundcorner 30
+skinparam DefaultFontColor Blue
+skinparam ClassBorderColor Green
+skinparam BackgroundColor White/LightGray
+
+title __Fichero ejemplo.py__
+class Ejemplo <<(F,lightgreen)>> {
++string ruta
+-- funciones --
++guardar_archivos()
++leer_archivos()
+}
+
+@enduml

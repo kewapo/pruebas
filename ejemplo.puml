@@ -1,7 +1,9 @@
 @startuml
+skinparam handwritten true
+title __Fichero: ejemplo.py__\n
 
 class Ejemplo <<(F,lightgreen)>> {
-+string ruta
++ruta = 'E:\\libros'
 -- funciones --
 +guardar_archivos()
 +leer_archivos()
