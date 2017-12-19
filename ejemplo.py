@@ -35,7 +35,7 @@ Debería immprimirse con este código
 '''
 if __name__ == '__main__':
     archivos = leer_archivos('archivos.csv')
-    guardar_archivos(r'E:\libros', 'archivos1.csv')
+    guardar_archivos(ruta, 'archivos1.csv')
     with open('archivos1.csv') as a:
         for linea in a:
             directorio = linea.split(';')[0]
