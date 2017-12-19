@@ -1,0 +1,12 @@
+@startuml
+salt
+{+
+ {T
+ + pruebas
+ ++ ejemplo.py
+ ++ archivos.csv
+ ++ archivos1.csv
+ ++ requisitos.txt
+ }
+}
+@enduml

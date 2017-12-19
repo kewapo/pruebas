@@ -1,0 +1,7 @@
+@startuml
+
+folder "pruebas" {
+[ejemplo.py] ..> [archivos.csv]
+}
+
+@enduml

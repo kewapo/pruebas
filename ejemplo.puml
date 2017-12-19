@@ -1,0 +1,10 @@
+@startuml
+
+class Ejemplo <<(F,lightgreen)>> {
++string ruta
+-- funciones --
++guardar_archivos()
++leer_archivos()
+}
+
+@enduml
