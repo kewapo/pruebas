@@ -1,4 +1,4 @@
-﻿# Autor: kewapo.
+﻿# Autor: kewapo.-
 # Editado con el mac.
 import os.path
 import datetime
